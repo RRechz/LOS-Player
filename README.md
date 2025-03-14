@@ -1,7 +1,7 @@
 # LOS Player: Built with **LineageOS 22** sources as APK
 [![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/WSTxda/Google-Shortcuts-Launcher/.github%2Fworkflows%2Fandroid.yml?style=for-the-badge&logo=github-actions&labelColor=21262D&color=3FB950)](https://github.com/WSTxda/Google-Shortcuts-Launcher/actions) [![Platform](https://img.shields.io/badge/android-platform?style=for-the-badge&label=platform&labelColor=21262d&color=6e7681)](https://www.android.com) [![API](https://img.shields.io/badge/30%2B-level?style=for-the-badge&logo=android&logoColor=3cd382&label=API&labelColor=21262d&color=ff663b)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/RRechz/LOS-Player?display_name=tag&style=for-the-badge&logo=github&labelColor=21262d&color=1f6feb)](https://github.com/RRechz/LOS-Player/releases) [![Downloads](https://img.shields.io/github/downloads/RRechz/LOS-Player/total)](https://github.com/RRechz/LOS-Player/releases)
 
-Introduced with LineageOS 22, a port of LOS's custom media player, carefully crafted with Android's Material3 and Material You design and available as an APK for other Android devices.
+LOS Player, the APK downloadable version of LOS's revamped music media player introduced with LineageOS 22 for other Android devices, promises you a local music listening experience with material3 and material you theme.
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/RRechz/LOS-Player/releases/latest)
 
