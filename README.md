@@ -7,6 +7,10 @@ LOS Player, the APK downloadable version of LOS's revamped music media player in
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/RRechz/LOS-Player/releases/latest)
 
+## System Requirements
+
+- Android API Level 30 or above (Android 11+)
+
 ## Features
 
 - Local Media Player
