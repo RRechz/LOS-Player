@@ -32,12 +32,6 @@ Introduced with LineageOS 22, a port of LOS's custom media player, carefully cra
 >
 >This application is a port of the LOS-specific application introduced with LineageOS 22 for Android devices. No rights are claimed. It has been made installable with apk only.
 
-## Donate
-
-If you like the EchoWave project, you can donate to help the project add more features and keep it updated for longer.
-
-<a href="https://www.buymeacoffee.com/section" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
 ## Credit
 
 The source and code of the application are FULLY owned by the LineageOS developers team and the project owner. No rights are claimed on the application. It is only offered as an open source project.
