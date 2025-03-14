@@ -19,12 +19,15 @@ LOS Player, the APK downloadable version of LOS's revamped music media player in
 
 <p float="left">
   <img src="https://github.com/RRechz/LOS-Player/blob/lineage-22.1/images/Screenshot_20250314-062807_Müzik.png" width="200" />
+  <img src="https://github.com/RRechz/LOS-Player/blob/lineage-22.1/images/Screenshot_20250314-071705_Müzik.png" width="200" />
   <img src="https://github.com/RRechz/LOS-Player/blob/lineage-22.1/images/Screenshot_20250314-062812_Müzik.png" width="200" />
-  <img src="https://github.com/RRechz/LOS-Player/blob/lineage-22.1/images/Screenshot_20250314-062824_Müzik.png" width="200" />
 </p>
 <p float="left">
+  <img src="https://github.com/RRechz/LOS-Player/blob/lineage-22.1/images/Screenshot_20250314-062824_Müzik.png" width="200" />
   <img src="https://github.com/RRechz/LOS-Player/blob/lineage-22.1/images/Screenshot_20250314-062828_Müzik.png" width="200" />
   <img src="https://github.com/RRechz/LOS-Player/blob/lineage-22.1/images/Screenshot_20250314-062838_Müzik.png" width="200" />
+</p>
+</p float="left">
   <img src="https://github.com/RRechz/LOS-Player/blob/lineage-22.1/images/Screenshot_20250314-062844_Müzik.png" width="200" />
 </p>
 
